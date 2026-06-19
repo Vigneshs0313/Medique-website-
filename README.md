@@ -8,10 +8,9 @@ A fully responsive, production-styled website concept for booking doctor appoint
 
 ---
 
-## 📸 Preview
 
-> Add a screenshot or screen recording here once deployed — e.g. drag a `.png`/`.gif` into this README on GitHub and reference it like:
-> `![MediQueue homepage](screenshots/home.png)`
+
+
 
 ---
 
@@ -69,7 +68,7 @@ open index.html   # or just double-click the file
 
 ## 👤 About
 
-Built by **Vignesh** ([@Vigneshs0313](https://github.com/Vigneshs0313)) — B.Tech CSE (AIML) student, as part of an ongoing UX/UI design and front-end development portfolio.
+Built by **Vignesh** ([@Vigneshs0313](https://github.com/Vigneshs0313)) — B.E CSE (AIML) student, as part of an ongoing UX/UI design and front-end development portfolio.
 
 ---
 
